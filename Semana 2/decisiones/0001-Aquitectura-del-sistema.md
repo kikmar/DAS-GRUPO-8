@@ -54,7 +54,7 @@ Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-
 
 ## UML de la decisión
 
-![Captura](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/uml/Captura.png)
+No se realiza ningún esquema UML debido a que es una decisión general de arquitectura sin tratar ninguna clase en concreto.
 
 
 
