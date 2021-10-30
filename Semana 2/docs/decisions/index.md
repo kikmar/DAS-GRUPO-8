@@ -6,7 +6,8 @@ This log lists the architectural decisions for [project name].
 
 
 * Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0001](0001-Aquitectura-del-sistema.md) <!-- optional -->
-* Deciders: [list everyone involved in the decision] <!-- optional -->
+* Deciders: [Rodrigo-Marqués-Buil](https://github.com/Larrivey)
+* Deciders: [Enrique-Martín-Santorcaz](https://github.com/kikmar)
 * Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
 <!-- adrlogstop -->
 
