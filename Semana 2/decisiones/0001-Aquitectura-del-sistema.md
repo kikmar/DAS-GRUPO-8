@@ -2,7 +2,9 @@
 
 ## Identificador del Requisito
 
-Requisito a tratar: [RF1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.md) "Elección de arquitectura"
+Requisito a tratar: 
+* [RF1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.md) "Elección de arquitectura" 
+* [RF1.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.1.md) "Arquitectura de microservicios"
 
 ## Contexto y problemas a resolver
 
