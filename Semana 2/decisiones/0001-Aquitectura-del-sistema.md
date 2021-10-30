@@ -24,6 +24,7 @@ Opción 1 elegida (Arquitectura de Microservicios) porque es el sistema que quie
 * Menos problemas para el cliente.
 * Código y mantenimiento más legible.
 * Facilidad a la hora de aplicar una implementación continua.
+* Es el que ha solicitado el cliente.
 
 
 ### Consecuencias negativas <!-- optional -->
@@ -42,6 +43,8 @@ Opción 1 elegida (Arquitectura de Microservicios) porque es el sistema que quie
 Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
 
 ## Capturas CONTROL 
+
+![Captura](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/uml/Captura.png)
 
 ## UML de la decisión
 
