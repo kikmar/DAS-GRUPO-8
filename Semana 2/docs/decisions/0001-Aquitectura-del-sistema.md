@@ -1,5 +1,9 @@
 # ADR-0001 Arquitectura-del-sistema
 
+## Identificador del Requisito
+
+Requisito a tratar: [RF1] () "Elección de arquitectura"
+
 ## Contexto y problemas a resolver
 
 El cliente posee un sistema basado en una arquitectura Web de tres capas que desea migrar a una de microservicios.
