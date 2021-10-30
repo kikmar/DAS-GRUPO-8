@@ -10,26 +10,23 @@ El cliente posee un sistema basado en una arquitectura Web de tres capas que des
 
 ## Decisiones tomadas
 
-Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
 
 
 ### Consecuencias positivas <!-- optional -->
 
-* [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
-* …
+* Mejoras en la flexibilidad.
+* Mejoras en la escalabilidad.
+* Menos problemas para el cliente.
+* Código y mantenimiento más legible.
+* Facilidad a la hora de aplicar una implementación continua.
+
 
 ### Consecuencias negativas <!-- optional -->
 
-* [e.g., compromising quality attribute, follow-up decisions required, …]
-* …
+* Posible dificultad a la hora de migrar el sistema.
+* Tener verificado en la base de datos todos los microservicios del sistema para un mayor control
 
-### [option 1]
 
-[example | description | pointer to more information | …] <!-- optional -->
-
-* Good, because [argument a]
-* Good, because [argument b]
-* Bad, because [argument c]
-* … <!-- numbers of pros and cons can vary -->
 
 
