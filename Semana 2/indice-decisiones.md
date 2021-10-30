@@ -11,9 +11,8 @@ This log lists the architectural decisions for [DAS-GRUPO-8](https://github.com/
 * Fecha: [30-10-2021 cuando fue la última actualización] 
 
 ## ADR-0002 Migracion-nueva-arquitectura
-* Estado: [Propuesto](decisiones/0002-Migracion-nueva-arquitectura.md)
+* Estado: [Suspendido](decisiones/0002-Migracion-nueva-arquitectura.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
-* ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
 * Fecha: [30-10-2021 cuando fue la última actualización]
 
