@@ -8,9 +8,7 @@ This log lists the architectural decisions for [project name].
 * Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0001](0001-Aquitectura-del-sistema.md) <!-- optional -->
 * Deciders: [Rodrigo-Marqués-Buil](https://github.com/Larrivey)
 * Deciders: [Enrique-Martín-Santorcaz](https://github.com/kikmar)
-* Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
-<!-- adrlogstop -->
+* Date: [2021-10-30 when the decision was last updated] <!-- optional -->
 
-For new ADRs, please use [template.md](template.md) as basis.
-More information on MADR is available at <https://adr.github.io/madr/>.
-General information about architectural decision records is available at <https://adr.github.io/>.
+
+
