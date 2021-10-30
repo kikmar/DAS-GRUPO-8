@@ -10,7 +10,7 @@ El cliente posee un sistema basado en una arquitectura Web de tres capas que des
 
 ## Decisiones tomadas
 
-Opción elegida: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+Opción elegida: [Arquitectura de Microservicios] , because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
 
 
 ### Consecuencias positivas <!-- optional -->
