@@ -1,6 +1,6 @@
 # Log de decisión de arquitectura
 
-This log lists the architectural decisions for [DAS-GRUPO-8](https://github.com/kikmar/DAS-GRUPO-8)
+Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GRUPO-8](https://github.com/kikmar/DAS-GRUPO-8)
 
 
 ## ADR-0001 Arquitectura-del-sistema
