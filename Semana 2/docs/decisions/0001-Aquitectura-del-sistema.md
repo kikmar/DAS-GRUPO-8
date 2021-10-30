@@ -2,7 +2,7 @@
 
 ## Identificador del Requisito
 
-Requisito a tratar: [RF1] () "Elección de arquitectura"
+Requisito a tratar: [RF1] (https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.md) "Elección de arquitectura"
 
 ## Contexto y problemas a resolver
 
