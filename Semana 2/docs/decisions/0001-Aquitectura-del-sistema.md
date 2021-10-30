@@ -6,11 +6,11 @@ El cliente posee un sistema basado en una arquitectura Web de tres capas que des
 
 ## Opciones consideradas
 
-* [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) "Explicación Arquitectura de Microservicios"
+* [option1] [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) "Explicación Arquitectura de Microservicios"
 
 ## Decisiones tomadas
 
-Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
+Opción elegida: [option1] porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
 
 
 ### Consecuencias positivas <!-- optional -->
@@ -33,7 +33,7 @@ Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-
 * Good, because [argument b]
 * Bad, because [argument c]
 
-## Decisiones final tomada
+## Decisión final tomada
 
 Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
 
