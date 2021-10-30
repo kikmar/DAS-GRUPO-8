@@ -4,8 +4,10 @@ This log lists the architectural decisions for [project name].
 
 <!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
 
-- [ADR-0001](0001-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
 
+* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0001](0001-Arquitectura-del-sistema.md)] <!-- optional -->
+* Deciders: [Rodrigo] <!-- optional -->
+* Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
 <!-- adrlogstop -->
 
 For new ADRs, please use [template.md](template.md) as basis.
