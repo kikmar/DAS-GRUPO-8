@@ -5,8 +5,8 @@ This log lists the architectural decisions for [project name].
 <!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
 
 
-* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0001](0001-Arquitectura-del-sistema.md)] <!-- optional -->
-* Deciders: [Rodrigo] <!-- optional -->
+* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0001](0001-Arquitectura-del-sistema.md) <!-- optional -->
+* Deciders: [list everyone involved in the decision] <!-- optional -->
 * Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
 <!-- adrlogstop -->
 
