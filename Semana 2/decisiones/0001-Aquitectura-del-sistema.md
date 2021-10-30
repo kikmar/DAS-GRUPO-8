@@ -2,9 +2,7 @@
 
 ## Identificador del Requisito
 
-Requisito a tratar: 
-* [RF1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.md) "Elección de arquitectura" 
-* [RF1.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.1.md) "Arquitectura de microservicios"
+Requisito a tratar: [RF1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.md) "Elección de arquitectura"
 
 ## Contexto y problemas a resolver
 
@@ -43,6 +41,8 @@ Opción 1 elegida (Arquitectura de Microservicios) porque es el sistema que quie
 * Malo, porque hay que lidiar con la complejidad adicional de los sistemas distribuidos.
 * Malo, porque hay que implementar dependencias de un servicio a otro, comunicación interna entre servicios, etc.
 * Malo, porque implica un mayor consumo de recursos, puesto que cada microservicio tiene su propio SO y dependencias.
+
+**Decisión ASC: arquitectura aceptada**
 
 ## Decisión final tomada
 
