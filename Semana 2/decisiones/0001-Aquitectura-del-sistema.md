@@ -51,6 +51,7 @@ Opción 1 elegida (Arquitectura de Microservicios) porque es el sistema que quie
 Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
 
 ## Capturas CONTROL 
+![D0001](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2.1/Semana%202/capturas%20admentor/D0001.jpg)
 
 ## UML de la decisión
 

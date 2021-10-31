@@ -47,6 +47,7 @@ de la arquitectura de microservicio.
 Opción elegida: Revisión de la escalabilidad y flexibilidad de la arquitectura.
 
 ## Capturas CONTROL 
+![D0002](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2.1/Semana%202/capturas%20admentor/D0002.jpg)
 
 ## UML de la decisión
 
