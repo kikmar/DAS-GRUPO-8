@@ -3,13 +3,15 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF1.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.2.md) "Migración de la nueva arquitectura" 
-* [RF1.3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.3.md) "Mejorar flexibilidad y escalabilidad"
+* [RF2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.md) "Control y gestión de compras de clientes" 
+* [RF2.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.1.md) "Gestión de preferencias para compras"
+* [RF2.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.2.md) "Acceso a sistemas de pago "
 
 ## Contexto y problemas a resolver
 
 El cliente posee un sistema basado en una arquitectura Web de tres capas que desea migrar a una de microservicios. Las decisiones tomadas
-se enfocarán en establecer unas correctas bases para asegurar la escalabilidad y la flexibilidad de la nueva arquitectura.
+se enfocarán en establecer una correcta gestión de las compras de los clienties. Los clientes deberían acceder a la plataforma de pago de una manera correcta y sin problemas,
+integrando ésta en la nueva arquitectura de microservicios.
 
 ## Decisiones a tratar:
 
