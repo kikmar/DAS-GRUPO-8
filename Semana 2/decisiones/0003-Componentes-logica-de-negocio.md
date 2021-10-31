@@ -1,4 +1,4 @@
-# ADR-0004 Gestion-de-compras-y-acceso-a-plataforma-de-pagos
+# ADR-0003 Componentes-logica-de-negocio
 
 ## Identificador del Requisito
 
