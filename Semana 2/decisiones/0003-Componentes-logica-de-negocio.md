@@ -1,9 +1,10 @@
-# ADR-0004 Gestion-de-compras-y-acceso-a-plataforma-de-pagos
+# ADR-0003 Componentes-logica-de-negocio
 
 ## Identificador del Requisito
 
 Requisito a tratar: 
 * [RF3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.md) "Componentes lógica de negocio"
+
 
 
 ## Contexto y problemas a resolver
