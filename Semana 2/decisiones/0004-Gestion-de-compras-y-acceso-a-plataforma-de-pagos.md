@@ -62,7 +62,7 @@ escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistem
 Opción elegida: Opción 2.
 
 ## Capturas CONTROL 
-![D0004](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/admentor/D0004.PNG)
+![D0004](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/admentor/D0005.PNG)
 
 ## UML de la decisión
 
