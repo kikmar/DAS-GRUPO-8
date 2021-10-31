@@ -6,6 +6,7 @@ Requisito a tratar:
 * [RF3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.md) "Componentes lógica de negocio"
 
 
+
 ## Contexto y problemas a resolver
 
 
