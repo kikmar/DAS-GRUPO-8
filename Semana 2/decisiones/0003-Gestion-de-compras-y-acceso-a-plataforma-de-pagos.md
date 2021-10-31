@@ -13,8 +13,6 @@ se enfocarán en establecer unas correctas bases para asegurar la escalabilidad 
 
 ## Decisiones a tratar:
 
-En este apartado se encontrarán las decisiones que se tomarán durante el desarrollo de la migración y el nuevo sistema. Se irán sumando mediante
-el paso de las semanas y las iteraciones.
 
 
 ## Decisiones tomadas
