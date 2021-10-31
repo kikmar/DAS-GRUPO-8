@@ -3,54 +3,64 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.md) "Control y gestión de compras de clientes" 
-* [RF2.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.1.md) "Gestión de preferencias para compras"
-* [RF2.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.2.md) "Acceso a sistemas de pago "
+* [RF3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.md) "Componentes lógica de negocios" 
+* [RF3.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.1.md) "Módulo de detección de preferencias"
+* [RF3.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.2.md) "Módulo de sistema de pago"
 
 ## Contexto y problemas a resolver
 
 El cliente posee un sistema basado en una arquitectura Web de tres capas que desea migrar a una de microservicios. Las decisiones tomadas
 se enfocarán en establecer una correcta gestión de las compras de los clienties. Los clientes deberían acceder a la plataforma de pago de una manera correcta y sin problemas,
-integrando ésta en la nueva arquitectura de microservicios.
+integrando ésta en la nueva arquitectura de microservicios. Además, el sistema debe detectar las preferencias de los usuarios a la hora de realizar búsquedas, en función de las anteriormente realizadas.
 
 ## Decisiones a tratar:
 
+* **Opcion 1**:  La base de datos NoQSL almacenará las preferencias de los usuarios en base a las búsquedas anteriormente realizadas en la aplicación. Cuando el usuario acceda a su perfil, ésta
+debe devolver los datos del mismo, para actualizarse en función de las búsquedas que realice mientras esté conectado. Esta base de datos NoSQL debe estar implementada mediante un solo microservicio
+con dos API (una para actualizarse en función de búsquedas, y otra para comunicarse con el módulo del cliente) ambas desarrolladas en JAVA. Por otro lado, debe existir un módulo diferenciado para conectarse con la API del banco asociado a la cuenta del usuario.
+estos datos se guardarán con el resto de información del usuario en la base de datos NoSQL, y de nuevo, las clases asociadas estarán desarolladas en JAVA.
+* **Opcion 2**: La lógica es la misma que en la opción 1, pero las API desarrolladas en Phyton puesto que es un lenguaje más potente e intuitivo.
+* **Opcion 3**: La lógica es la misma que en la opción 1, pero las API desarrolladas en Node ya que es una opción perfectamente válida.
+* **Opcion 4**: La lógica es la misma que en la opción 1, pero las API desarrolladas en JavaScript puesto que es un lenguaje que nos permitiría unificar ambas APIs en una sola.
 
 
 ## Decisiones tomadas
 
-La decisión tomada para estos requisitos es comprobar durante el desarrollo de la migración la sostenibilidad de las funcionalidades en cuanto a escalabilidad
-y flexibilidad. No podemos implementarlas como tal, pero sí asegurar mediante la creación de las clases, que éstas serán escalables y flexibles.
+Opción 1 elegida: Separar ambas las APIs en JAVA parece lo más correcto puesto que permite una mayor modularización de los contenidos, y por tanto, aseguramos una correcta
+escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistema seguida por en todas las opciones es la más intuitiva y escalable, por lo que la consideramos, de nuevo, como correcta.
 
 ### Consecuencias positivas <!-- optional -->
 
-* Seguridad en implementación de escalabilidad.
-* Seguridad en implementación de flexibilidad.
-* Revisión continua de estas características.
-* Nivel detallado de estas características.
-
+* Seguridad en implementación con escalabilidad del sistema.
+* Seguridad en implementación con flexibilidad del sistema.
+* JAVA es un lenguaje preparado para albergar este tipo de aplicaciones, lo que puede ser de ayuda a la hora de implementarlo y escalarlo.
+* El sistema de preferencias generado por búsquedas anteriores permite que el usuario encuentre productos parecidos a los que le interesan, y por tanto, que sea una herramienta útil para el cliente.
+* La basde de datos NoSQL estaría correctamente conectada con los diferentes módulos del sistemas, y recopilar la información de los diferentes usuarios no es una operación complicada de realizar ni implementar, por lo que
+ la escalabilidad se vuelve a respetar en este punto.
+* Actualizar la base de datos una vez el usuario ha dejado de navegar por la aplicación con las nuevas preferencia generadas, permitirá que el dicho sistema de preferencias sea flexible y se adapte a los nuevos gustos de los usuarios.
+* La forma de conectar con el banco es fácil de implementar puesto que muchas aplicaciones anteriormente han utilizado esta lógica, por lo que podemos encontrar mucha documentación y ejemplos en diferentes webs.
 
 ### Consecuencias negativas <!-- optional -->
 
-* No se vislumbra una escalabilidad palpable desde el comienzo del desarrollo de la migración
-* Posible pérdida del contacto con estos requisitos durante el desarrollo de la migración
+* Separar en un sistema de dos APIs las implementaciones propuestas podría resultar confuso a la hora de conectarlas con los módulos de usuario e interfaz.
+* Otros lenguajes de programación podrían resultar más interesantes para implementar el sistema, como por ejemplo Python, que nos ofrece posibilidades más allá de lo que se nos pide con librerias gratuitas. La escalabilidad podría verse afectada en futuras actualizaciones y mejoras del sistema.
+* La lógica no parece revisable.
+* La base de datos NoSQL puede verse afectada por una sobrecarga de importancia en la lógica planteada. Podría suponer un problema de escalabilidad.
 
 ### Discusión ASC: Arquitectura de Microservicios
 
-En esta decisión, los ASC no toman parte del proceso porque se encargarán de revisarlo periodicamente durante el desarrollo de la migración y la implementación
-de la arquitectura de microservicio.
-
-**Decisión ASC: arquitectura suspendida**
+**Decisión ASC: Opcion 2**
 
 ## Decisión final tomada
 
-Opción elegida: Revisión de la escalabilidad y flexibilidad de la arquitectura.
+Opción elegida: Opción 2.
 
 ## Capturas CONTROL 
 
+
 ## UML de la decisión
 
-No se realiza ningún esquema UML debido a que es una decisión general de arquitectura sin tratar ninguna clase en concreto.
+
 
 
 

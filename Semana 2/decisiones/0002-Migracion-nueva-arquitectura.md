@@ -40,7 +40,7 @@ y flexibilidad. No podemos implementarlas como tal, pero sí asegurar mediante l
 En esta decisión, los ASC no toman parte del proceso porque se encargarán de revisarlo periodicamente durante el desarrollo de la migración y la implementación
 de la arquitectura de microservicio.
 
-**Decisión ASC: arquitectura suspendida**
+**Decisión ASC: decisión suspendida**
 
 ## Decisión final tomada
 
