@@ -1,11 +1,10 @@
-# ADR-0001 Migración-nueva-arquitectura
+# ADR-0004 Gestion-de-compras-y-acceso-a-plataforma-de-pagos
 
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.md) "Componentes lógica de negocios" 
-* [RF3.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.1.md) "Módulo de detección de preferencias"
-* [RF3.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.2.md) "Módulo de sistema de pago"
+* [RF3.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.2.md) "Módulo de detección de preferencias"
+* [RF3.3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.3.md) "Módulo de sistema de pago"
 
 ## Contexto y problemas a resolver
 
@@ -21,7 +20,7 @@ con dos API (una para actualizarse en función de búsquedas, y otra para comuni
 estos datos se guardarán con el resto de información del usuario en la base de datos NoSQL, y de nuevo, las clases asociadas estarán desarolladas en JAVA.
 * **Opcion 2**: La lógica es la misma que en la opción 1, pero las API desarrolladas en Phyton puesto que es un lenguaje más potente e intuitivo.
 * **Opcion 3**: La lógica es la misma que en la opción 1, pero las API desarrolladas en Node ya que es una opción perfectamente válida.
-* **Opcion 4**: La lógica es la misma que en la opción 1, pero las API desarrolladas en JavaScript puesto que es un lenguaje que nos permitiría unificar ambas APIs en una sola.
+
 
 
 ## Decisiones tomadas
