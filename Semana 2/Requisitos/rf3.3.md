@@ -1,4 +1,5 @@
-# RF3.3 - Carga de datos en las interfaces tras el acceso a los mismos
+# RF3.3 - Módulo de conexión a sistemas de pago
 
 
-Middleware encargado de suministrar la información recogida en las peticiones para su correcta impresión en la aplicación
+Se indicará de que forma se realizarán los pagos y con que medios
+

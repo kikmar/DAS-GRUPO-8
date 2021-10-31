@@ -1,4 +1,5 @@
-# RF6 - Lógica de peticiones a los microservicios
+# RF6 - Integración asíncrona de los microservicios
 
 
-Se indica parte de la lógica analizada en el análisis de requisitos
+Se implementará para soportar un mayor numero de compras y preferencias
+

@@ -1,4 +1,5 @@
-# RF4 - Middleware independiente para correcta funcionalidad de sistema de mensajería
+# RF4 - Lógica de acceso a bases de datos
 
 
-Encargado de suministrar los datos intercambiados por el sistema de mensajería entre el módulo de envío y de recibo en el sistema
+Son los componentes responsables para obtener acceso a las BBDD
+

@@ -1,4 +1,5 @@
-# RF5 - Implementación de microservicios
+# RF5 - Sistema de mensajería por middelware independiente
 
 
-Se indica el cambio de arquitectura a microservicios y puntos importantes a tratar
+Implementación de middleware único para mensajeria
+

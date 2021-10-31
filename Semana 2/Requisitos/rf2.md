@@ -1,4 +1,5 @@
-# RF2 - Control y gestión de compras de clientes
+# RF2 - Componentes de presentación
 
 
-Se indica las funcionalidades y requisitos necesarios a la hora de gestionar las compras por los usuarios
+Responsables de la parte cliente
+

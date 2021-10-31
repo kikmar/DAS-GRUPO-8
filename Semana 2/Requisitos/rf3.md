@@ -1,4 +1,5 @@
-# RF3 - Lógica de dominio
+# RF3 - Componentes lógica de negocio
 
 
-Bases de datos encargadas de la persistencia de los datos necesarios por la aplicación para un correcto funcionamiento
+Responsable de la funcionalidad de la aplicación
+

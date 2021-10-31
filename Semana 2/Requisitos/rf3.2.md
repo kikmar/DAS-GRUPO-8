@@ -1,3 +1,3 @@
-# RF3.2 - Sistema de análisis de datos y métricas para la empresa
+# RF3.2 - Módulo detección de preferencias
 
-Creación de sistema encargado del análisis de los datos pertinentes almacenados en las BBDD para su posterior utilización o almacenaje
+Se indicará la información necesaria y trata correcta de la información de preferencias

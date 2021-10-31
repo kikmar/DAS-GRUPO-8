@@ -1,4 +1,5 @@
-# RF2.1 - Gestión de preferencias para compras
+# RF2.1 - Control de interfaz de usuario
 
 
-Sistema encargado de analizar las preferencias a los usuarios de la aplicación
+Se indicará como se controla la interfaz de usuario
+

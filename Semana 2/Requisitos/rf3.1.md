@@ -1,4 +1,5 @@
-# RF3.1 - Acceso a información de los datos, cargando los referentes al correspondiente usuario
+# RF3.1 - Módulo de pedidos y compras
 
 
-Implementar correctas peticiones de los datos y suministrarlas de forma correcta a la parte visual de la aplicación
+Se indicará cómo realizar las compras y pedidos para usuario
+

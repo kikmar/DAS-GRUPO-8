@@ -1,4 +1,5 @@
-# RF2.2 - Acceso a sistemas de pago
+# RF2.2 - Consumo de servicios remotos
 
 
-Correcta conexión a la plataforma de pago suministrada por la entidad
+Se indicará como controlar el consumo de servicios remotos
+
