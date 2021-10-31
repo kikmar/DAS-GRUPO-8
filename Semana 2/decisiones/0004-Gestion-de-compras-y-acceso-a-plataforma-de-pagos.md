@@ -66,7 +66,7 @@ Opción elegida: Opción 2.
 
 ## UML de la decisión
 
-
+![UML-w2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2.1/Semana%202/uml/UML-w2.JPG)
 
 
 
