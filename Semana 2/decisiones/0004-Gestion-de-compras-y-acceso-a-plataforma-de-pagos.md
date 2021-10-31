@@ -48,6 +48,13 @@ escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistem
 
 ### Discusión ASC: Arquitectura de Microservicios
 
++ Bueno, porque respeta los patrones de flexibilidad y escalabilidad
++ Bueno, ya que no presenta retos muy complicado en su implementación, y parece bastante modularizado
++ Bueno, ya que a priori el sistema es sencillo a pesar de estar separado en dos API, por lo que no parece que pueda llegar a causar confusión
++ Bueno, ya que el sistema de pago está probado y es recurrene en otras aplicaciones y servicios, por lo que es bastante genérico
++ Malo, ya que no se presentan diferentes posibilidades para la lógica del sistema.
++ Malo, ya que el lenguaje de programación más apropiado parece ser Python por enicma de JAVA
+
 **Decisión ASC: Opcion 2**
 
 ## Decisión final tomada
