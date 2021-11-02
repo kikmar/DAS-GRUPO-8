@@ -46,13 +46,19 @@ base de datos NOSql para información del usuario y la base de datos SQL para co
 * Las bases de datos no están correctamente conectadas en este punto de la implementación y puede suponer un problema al esclarecer estas soluciones 
 * Es probable que la base de datos SQL sea demasiado compleja de manejar
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Modulo de pedidos, compras y módulo de devoluciones
+
++ Bueno, ya que se satisface lo que demanda el cliente.
++ Bueno, ya que al ser sistemas de similar implementación se ahorrarán tanto tiempo como costes de desarrollo.
++ Bueno, ya que las compras y el stock se relacionan ofreciéndonos un mejor rendimiento del sistema.
++ Malo, ya que puede darse el caso de que encontremos disonancias entre las BBDD
++ Malo, ya que aumenta la complejidad del manejo de las BBDD
 
 **Decisión ASC: Opcion 1**
 
 ## Decisión final tomada
 
-**Opcion 1**
+**Opción elegida:** opción 1
 
 ## Capturas CONTROL 
 
