@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF10.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf10.1.md) "Definir vía de conexión"
-* [RF10.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf10.2.md) "Definir comunicación  y monitorización de los microservicios"
+* [RF10.1](../Requisitos/rf10.1.md) "Definir vía de conexión"
+* [RF10.2](../Requisitos/rf10.2.md) "Definir comunicación  y monitorización de los microservicios"
 
 ## Contexto y problemas a resolver
 

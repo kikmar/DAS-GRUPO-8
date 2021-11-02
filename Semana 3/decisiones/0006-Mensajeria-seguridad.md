@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF3.4](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.4.md) "Módulo de mensajería a dispositivos móviles"
-* [RF3.5](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.5.md) "Módulo de seguridad en compras"
+* [RF3.4](../Requisitos/rf3.4.md) "Módulo de mensajería a dispositivos móviles"
+* [RF3.5](../Requisitos/rf3.5.md) "Módulo de seguridad en compras"
 
 ## Contexto y problemas a resolver
 

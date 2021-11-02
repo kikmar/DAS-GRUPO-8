@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF1.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.2.md) "Migración de la nueva arquitectura" 
-* [RF1.3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf1.3.md) "Mejorar flexibilidad y escalabilidad"
+* [RF1.2](../Requisitos/rf1.2.md) "Migración de la nueva arquitectura" 
+* [RF1.3](../Requisitos/rf1.3.md) "Mejorar flexibilidad y escalabilidad"
 
 ## Contexto y problemas a resolver
 
@@ -47,7 +47,7 @@ de la arquitectura de microservicio.
 Opción elegida: Revisión de la escalabilidad y flexibilidad de la arquitectura.
 
 ## Capturas CONTROL 
-![D0002](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2.1/Semana%202/capturas%20admentor/D0002.jpg)
+![D0002](../capturasadmentor/D0002.jpg)
 
 ## UML de la decisión
 

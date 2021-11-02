@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF7](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf7.md) "Creación nueva base datos "
-* [RF8](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf8.md) "Integración bus eventos lógicos"
+* [RF7](../Requisitos/rf7.md) "Creación nueva base datos "
+* [RF8](../Requisitos/rf8.md) "Integración bus eventos lógicos"
 
 ## Contexto y problemas a resolver
 

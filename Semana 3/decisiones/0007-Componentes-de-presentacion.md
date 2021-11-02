@@ -3,7 +3,7 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.md) "Componentes de presentación"
+* [RF2](../Requisitos/rf2.md) "Componentes de presentación"
 
 
 ## Contexto y problemas a resolver
