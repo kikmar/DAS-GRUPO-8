@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF2.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.1.md) "Control de interfaz de usuario"
-* [RF2.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf2.2.md) "Consumo de servicios remotos"
+* [RF2.1](../Requisitos/rf2.1.md) "Control de interfaz de usuario"
+* [RF2.2](../Requisitos/rf2.2.md) "Consumo de servicios remotos"
 
 ## Contexto y problemas a resolver
 

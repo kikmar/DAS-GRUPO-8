@@ -3,7 +3,7 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF10](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf10.md) "Conexión y microservicios"
+* [RF10](../Requisitos/rf10.md) "Conexión y microservicios"
 
 
 ## Contexto y problemas a resolver

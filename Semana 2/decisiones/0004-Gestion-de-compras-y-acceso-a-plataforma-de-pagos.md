@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF3.2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.2.md) "Módulo de detección de preferencias"
-* [RF3.3](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.3.md) "Módulo de sistema de pago"
+* [RF3.2](../Requisitos/rf3.2.md) "Módulo de detección de preferencias"
+* [RF3.3](../Requisitos/rf3.3.md) "Módulo de sistema de pago"
 
 ## Contexto y problemas a resolver
 
@@ -62,11 +62,11 @@ escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistem
 Opción elegida: Opción 2.
 
 ## Capturas CONTROL 
-![D0004](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2.1/Semana%202/capturas%20admentor/D0004.jpg)
+![D0004](../capturasadmentor/D0004.jpg)
 
 ## UML de la decisión
 
-![UML-w2](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2.1/Semana%202/uml/UML-w2.JPG)
+![UML-w2](../uml/UML-w2.JPG)
 
 
 

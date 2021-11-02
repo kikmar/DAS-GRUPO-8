@@ -3,8 +3,8 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF3.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.1.md) "Módulo de pedidos y compras"
-* [RF3.6](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.6.md) "Módulo de devoluciones"
+* [RF3.1](../Requisitos/rf3.1.md) "Módulo de pedidos y compras"
+* [RF3.6](../Requisitos/rf3.6.md) "Módulo de devoluciones"
 
 ## Contexto y problemas a resolver
 
