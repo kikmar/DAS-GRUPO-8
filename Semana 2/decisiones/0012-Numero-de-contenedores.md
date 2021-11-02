@@ -3,7 +3,7 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-* [RF9](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf9.md) "Determinar número de contenedores"
+* [RF9](../Requisitos/rf9.md) "Determinar número de contenedores"
 
 
 ## Contexto y problemas a resolver
