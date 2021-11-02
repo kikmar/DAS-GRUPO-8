@@ -38,16 +38,25 @@ Opción 1 elegida: Se elije debido a que es necesario la creación de un microse
 
 * Se podría tomar otro lenguaje de programación más acorde al equipo de trabajo que facilite la implementación.
 * Si no se realizan unas buenas prácticas, al compartir la base de datos con otro microservicio podría dar lugar a colisiones o inconsistencias de datos que nos podría dificultar el mantenimiento y empeorar el correcto funcionamiento de la funcionalidad de la aplicación.
-* Hay que tener un correcto cálculo y monitorización de las peticiones así como sus tiempos de respuesta para compromar la optimización de la utilización de una única base de datos para estos dos microservicios.
-* Hay que implementar de forma correcta cuando va a interenir el microservicio de mensajería móvil para que no haya incompatibilidad con otros sistemas para el cuál no esta pensado.
+* Hay que tener un correcto cálculo y monitorización de las peticiones así como sus tiempos de respuesta para comprobar la optimización de la utilización de una única base de datos para estos dos microservicios.
+* Hay que implementar de forma correcta cuando va a intervenir el microservicio de mensajería móvil para que no haya incompatibilidad con otros sistemas para el cuál no esta pensado.
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Modulo de mensajeria y modulo de seguridad
+
++ Bueno, porque respeta los patrones de flexibilidad y escalabilidad.
++ Bueno, ya que no presenta retos muy complicado en su implementación, y parece bastante modularizado.
++ Bueno, ya que al estar en un microservicio aparte implementado por una API REST nos permitirá utilizarlo en un futuro de la forma que más nos convenga.
++ Bueno, ya que se reduce al mínimo la posibilidad de errores gracias a la robustez que nos ofrece la BDDD debido a la integridad de los datos.
++ Bueno, ya que analizando los requisitos no hace falta la creación de una BBDD nueva siendo posible reutilizar la utilizada en el módulo de compras.
++ Malo, ya que es posible que exista algún tipo de incompatibilidad con otros sistemas en el momento que intervenga el microservicio de mensajería móvil.
++ Malo, ya que el lenguaje de programación más apropiado parece ser Python por enicma de JAVA.
++ Malo, ya que hay que llevar una monitorización precisa para que la utilización de las BBDD sea óptima.
 
 **Decisión ASC: Opcion 2**
 
 ## Decisión final tomada
 
-
+Opción elegida: Opción 2. Ya que el punto de Python sobre JAVA nos ha parecido determinante para la elección de esta opción sobre la Opción 1.
 
 ## Capturas CONTROL 
 
