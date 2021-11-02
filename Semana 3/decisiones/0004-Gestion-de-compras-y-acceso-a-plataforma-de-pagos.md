@@ -9,7 +9,7 @@ Requisito a tratar:
 ## Contexto y problemas a resolver
 
 El cliente posee un sistema basado en una arquitectura Web de tres capas que desea migrar a una de microservicios. Las decisiones tomadas
-se enfocarán en establecer una correcta gestión de las compras de los clienties. Los clientes deberían acceder a la plataforma de pago de una manera correcta y sin problemas,
+se enfocarán en establecer una correcta gestión de las compras de los clientes. Los clientes deberían acceder a la plataforma de pago de una manera correcta y sin problemas,
 integrando ésta en la nueva arquitectura de microservicios. Además, el sistema debe detectar las preferencias de los usuarios a la hora de realizar búsquedas, en función de las anteriormente realizadas.
 
 ## Decisiones a tratar:
