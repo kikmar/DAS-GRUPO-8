@@ -3,10 +3,6 @@
 ## Identificador del Requisito
 
 Requisito a tratar: 
-<<<<<<< Updated upstream
-* [RF3.1](../Requisitos/rf3.1.md) "Módulo de pedidos y compras"
-* [RF3.6](../Requisitos/rf3.6.md) "Módulo de devoluciones"
-=======
 * [RF3.1](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.1.md) "Módulo de pedidos y compras"
 * [RF3.6](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.6.md) "Módulo de devoluciones"
 * [RF3.5](https://github.com/kikmar/DAS-GRUPO-8/blob/feature/Semana2/Semana%202/Requisitos/rf3.5.md) "Módulo de seguridad en compras"
@@ -62,6 +58,7 @@ base de datos NOSql para información del usuario y la base de datos SQL para co
 
 ## Capturas CONTROL 
 
+![D0005](../capturasadmentor/D0005.jpg)
 
 ## UML de la decisión
 
