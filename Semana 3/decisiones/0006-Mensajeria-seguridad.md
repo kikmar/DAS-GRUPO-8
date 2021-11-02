@@ -60,7 +60,7 @@ Opción elegida: Opción 2. Ya que el punto de Python sobre JAVA nos ha parecido
 
 ## Capturas CONTROL 
 
-![D0006](../capturasadmentor/D0006.jpg)
+![D0006](../capturasadmentor/D0006.JPG)
 
 ## UML de la decisión
 
