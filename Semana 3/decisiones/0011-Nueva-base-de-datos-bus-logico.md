@@ -18,7 +18,8 @@ Requisito a tratar:
 
 ## Decisiones tomadas
 
-
+//las bases de datos deben comunicarse guardando la coherencia como dice el enunciado. Este bus, entre otras cosas debe generar los mensajes que le llegan a las aplicaciones moviles. Ejs: 
+restock de productos incluidos en las preferencias del usuario, pedido enviado, devolucion completada, etc.
 
 ### Consecuencias positivas <!-- optional -->
 
