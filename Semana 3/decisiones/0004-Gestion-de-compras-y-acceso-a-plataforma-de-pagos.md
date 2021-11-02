@@ -46,7 +46,7 @@ escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistem
 * La lógica no parece revisable.
 * La base de datos NoSQL puede verse afectada por una sobrecarga de importancia en la lógica planteada. Podría suponer un problema de escalabilidad.
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Gestion-de-compras-y-acceso-a-plataforma-de-pagos
 
 + Bueno, porque respeta los patrones de flexibilidad y escalabilidad
 + Bueno, ya que no presenta retos muy complicado en su implementación, y parece bastante modularizado
