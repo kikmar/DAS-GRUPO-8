@@ -4,7 +4,7 @@
 
 Requisito a tratar: 
 * [RF3](../Requisitos/rf3.md) "Componentes lógica de negocio"
-
+* [RF3.5](../Requisitos/rf3.5.md) "Módulo de seguridad en compras"
 
 
 ## Contexto y problemas a resolver

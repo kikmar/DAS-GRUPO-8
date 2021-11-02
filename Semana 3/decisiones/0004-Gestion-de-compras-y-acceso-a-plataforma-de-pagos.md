@@ -9,7 +9,7 @@ Requisito a tratar:
 ## Contexto y problemas a resolver
 
 El cliente posee un sistema basado en una arquitectura Web de tres capas que desea migrar a una de microservicios. Las decisiones tomadas
-se enfocarán en establecer una correcta gestión de las compras de los clienties. Los clientes deberían acceder a la plataforma de pago de una manera correcta y sin problemas,
+se enfocarán en establecer una correcta gestión de las compras de los clientes. Los clientes deberían acceder a la plataforma de pago de una manera correcta y sin problemas,
 integrando ésta en la nueva arquitectura de microservicios. Además, el sistema debe detectar las preferencias de los usuarios a la hora de realizar búsquedas, en función de las anteriormente realizadas.
 
 ## Decisiones a tratar:
@@ -46,7 +46,7 @@ escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistem
 * La lógica no parece revisable.
 * La base de datos NoSQL puede verse afectada por una sobrecarga de importancia en la lógica planteada. Podría suponer un problema de escalabilidad.
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Gestion-de-compras-y-acceso-a-plataforma-de-pagos
 
 + Bueno, porque respeta los patrones de flexibilidad y escalabilidad
 + Bueno, ya que no presenta retos muy complicado en su implementación, y parece bastante modularizado
