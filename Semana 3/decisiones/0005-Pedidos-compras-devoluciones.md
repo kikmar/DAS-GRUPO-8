@@ -62,7 +62,7 @@ base de datos NOSql para información del usuario y la base de datos SQL para co
 
 ## UML de la decisión
 
-
+![UML-w2](../uml/D0005uml.JPG)
 
 
 

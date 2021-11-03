@@ -64,7 +64,7 @@ Opción elegida: Opción 2. Ya que el punto de Python sobre JAVA nos ha parecido
 
 ## UML de la decisión
 
-
+![UML-w2](../uml/D0006uml.JPG)
 
 
 
