@@ -65,9 +65,9 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 ## ADR-0010 Middelware de mensajeria e integración asíncrona de microservicios
 
 * Estado: [Pendiente](decisiones/0010-Middleware-mensajeria-integracion-asincrona.md)
-* ASS: []
-* ASS: []
-* Fecha: [ cuando fue la última actualización]
+* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
+* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* Fecha: [ 12-11-2021 cuando fue la última actualización]
 
 ## ADR-0011 Creación nueva base de datos y bus lógico
 
