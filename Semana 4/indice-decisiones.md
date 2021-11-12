@@ -93,7 +93,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 ## ADR-0014 Vía de conexión y monitorización y comunicación de microservicios
 
 * Estado: [Pendiente](decisiones/0014-Via-conexion-monitorizacion-comunicacion.md)
-* ASS: []
-* ASS: []
-* Fecha: [ cuando fue la última actualización]
+* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
+* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* Fecha: [12-11-2021 cuando fue la última actualización]
 
