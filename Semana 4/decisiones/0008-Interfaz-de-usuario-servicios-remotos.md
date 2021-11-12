@@ -39,13 +39,19 @@ de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tie
 * Se tiene que realizar unas correctas practicas de desarrollo para que las ventajas que aporta esta arquitectura sea de la mayor posible.
 * Es más dificil realziar un código más escalable si no se realiza de la forma correcta. Si se hace con buena praxis aporta mucha mas escalabilidad debido a las necesidades del producto.
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Módulo interfaz de usuario y módulo de servicios remotos
+
+* Bueno, ya que al ofrecer una mayor separación de las funcionalidades será más sencillo acoplar nuevas o modificar las ya existentes.
+* Bueno, ya que también existe diferenciación entre las entradas que facilita el uso de las APIREST
+* Bueno, ya que mejora el mantenimiento de la plataforma y la detección de errores.
+* Malo, ya que incrementa la complejidad a la hora de desarrollar.
+* Malo, ya que hay que el desarrollo debe ser llevado de forma minuciosa para que favorecerse de las ventajas que ofrece esta arquitectura, lo que ofrecerá una mayor escalabilidad si se realiza de forma correcta, sino, no sirve de nada.
 
 **Decisión ASC: Opcion 1**
 
 ## Decisión final tomada
 
-
+**Opción elegida:** Opción 1. Ha sido determinante la modularidad que ofrece y la capacidad de expansión.
 
 ## Capturas CONTROL 
 

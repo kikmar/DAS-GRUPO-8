@@ -38,13 +38,19 @@ Requisito a tratar:
 * Dificil implementación y puesta en marcha.
 * Si no se realiza de la forma correcta el mantenimiento puede dificultarse de forma exponencial. 
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Middelware de mensajeria e integración asíncrona de microservicios
+
+* Bueno, ya que ofrece una persistencia y una gestión de los datos muy conveniente.
+* Bueno, ya que posee un sistema robusto en caso de fallo de un microservicio.
+* Bueno, ya que una buena sincronización entre las comunicaciones y las peticiones es algo indispensable en un sistema como el que pide el cliente.
+* Malo, ya que los primeros pasos del desarrollo y de las implementaciones requerirán más esfuerzo.
+* Malo, ya que aumentará la complejidad de la aplicación además de dificultar sus mantenimiento si no se realiza de forma correcta.
 
 **Decisión ASC: Opcion 1**
 
 ## Decisión final tomada
 
-
+**Opción elegida:** Opción 1. Es necesaria esa asincronidad entre peticiones y comunicaciones aunque eso implique un aumento de la complejidad. 
 
 ## Capturas CONTROL 
 
