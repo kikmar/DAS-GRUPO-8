@@ -19,15 +19,13 @@ Responsibility Segregation) que utilicen tecnología de mensajería como RabbitM
 
 * **Opcion 2**: Cada vez que realmente no puede evitar usar las mismas BD y está dividiendo los límites de su servicio de manera que varios equipos/servicios requieran las mismas entidades, introduce dos dependencias entre el equipo de Microservice y el equipo responsable del esquema de datos: a ) Formato de datos, b) Datos reales. Esto no es imposible de resolver, pero solo con cierta sobrecarga en la organización. Y si introduce demasiadas de estas dependencias, es probable que su organización se vea paralizada y ralentizada en el desarrollo.
 
-* **Opcion 3**: Tendríamos dos bases de datos, lo que permitiría separarlo totalmente de otros microservicios. Cuando sea necesario, la coherencia entre las bases de datos de los diferentes microservicios se logra mediante eventos de integración de nivel de aplicación (a través de un bus de eventos lógicos), como se controla en Command and Query Responsibility Segregation (CQRS). Por ese motivo, las restricciones de negocio deben adoptar la coherencia final entre los múltiples microservicios y bases de datos relacionadas.
+* **Opcion 3**: Tendríamos dos bases de datos, lo que permitiría separarlo totalmente de otros microservicios. Cuando sea necesario, la coherencia entre las bases de datos de los diferentes microservicios se logra mediante eventos de integración de nivel de aplicación (a través de un bus de eventos lógicos), controlado por Command and Query Responsibility Segregation (CQRS). Por ese motivo, las restricciones de negocio deben adoptar la coherencia final entre los múltiples microservicios y bases de datos relacionadas.
 
 
 
 ## Decisiones tomadas
 
-Opción 3 elegida: Tendríamos dos bases de datos, lo que permitiría separarlo totalmente de otros microservicios. Cuando sea necesario, la coherencia entre las bases de datos de los diferentes microservicios se logra mediante eventos de integración de nivel de aplicación (a través de un bus de eventos lógicos), como se controla en Command and Query Responsibility Segregation (CQRS). Por ese motivo, las restricciones de negocio deben adoptar la coherencia final entre los múltiples microservicios y bases de datos relacionadas.
-
-
+Opción 3 elegida: Parece que establecer un bus de datos controlado por CQRS que conecte unicamente las bases de datos, es la opción más sensata, sencilla de implementar y modularizada.
 
 ### Consecuencias positivas <!-- optional -->
 
@@ -45,7 +43,7 @@ Opción 3 elegida: Tendríamos dos bases de datos, lo que permitiría separarlo 
 
 ### Discusión ASC: Arquitectura de Microservicios
 + Bueno, ya que se satisface lo que demanda el cliente.
-+ Bueno, ya que al tener más de una base de datos mejora el rendimiento del sistema.
++ Bueno, ya que al tener más de una base de datos conectadas mejora el rendimiento del sistema.
 + Bueno, aumento de la modularización del almacenamiento y acceso de datos
 + Malo, ya que puede darse el caso de que encontremos disonancias entre las BBDD
 + Malo, ya que aumenta la complejidad del manejo de las BBDD
@@ -54,13 +52,15 @@ Opción 3 elegida: Tendríamos dos bases de datos, lo que permitiría separarlo 
 
 ## Decisión final tomada
  
-Opción elegida: Opción 2.
+**Opción elegida: Opción 3.**
 
 ## Capturas CONTROL 
 
+![D0009](../capturasadmentor/D0009.JPG)
 
 ## UML de la decisión
 
+![UML-D0009](../uml/D0009uml.JPG)
 
 
 
