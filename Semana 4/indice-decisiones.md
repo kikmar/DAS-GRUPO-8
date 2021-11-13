@@ -65,7 +65,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
-* Fecha: [ cuando fue la última actualización]
+* Fecha: [14-11-2021 cuando fue la última actualización]
 
 ## ADR-0010 Middelware de mensajeria e integración asíncrona de microservicios
 
