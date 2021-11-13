@@ -59,7 +59,7 @@ escalabilidad y flexibilidad en el sistema. Por otro lado, la lógica del sistem
 
 ## Decisión final tomada
 
-Opción elegida: Opción 2.
+**Opción elegida: Opción 2.** La capacidad de expansión gracias a la modularidad que ofrece sumado a la potencia nativa de Python, hace que esta opción reine sobre el resto de las planteadas. 
 
 ## Capturas CONTROL 
 ![D0004](../capturasadmentor/D0004.jpg)

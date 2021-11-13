@@ -52,7 +52,7 @@ Opción 3 elegida: Parece que establecer un bus de datos controlado por CQRS que
 
 ## Decisión final tomada
  
-**Opción elegida: Opción 3.**
+**Opción elegida: Opción 3.** La facilidad de implementación que aporta esta opción es de agradecer, ya que todas las decisiones que impliquen descargar trabajo para un dev team son bienvenidas. Además, es importante recalcar lo necesaria que es la seguridad en las BBDD frente a posibles invasiones o brechas de seguridad, y consideramos que esta opción es la que satisface esa necesidad de la manera más completa.
 
 ## Capturas CONTROL 
 

@@ -30,16 +30,20 @@ Se trataran todas las comunicaciones por parte del cliente como http así como l
 
 ### Consecuencias negativas <!-- optional -->
 
-* Es mñas dificil de implementar y un poco más de trabajo
+* Es más dificil de implementar y un poco más de trabajo
 * Si no se realiza de la forma correcta puede dar más problemas de las ventajas que da
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Vía de conexión y monitorización y comunicación de microservicios
 
-**Decisión ASC: Opcion 2**
++ Bueno, ya que es esencial una correcta separación de las peticiones para una mejora de rendimiento y de control.
++ Bueno, ya que favorece el correcto mantenimiento y seguimiento de cara a futuras expansiones.
++ Malo, ya que una mala praxis puede desenvocar en un aumento de complejidad que aumenta la carga de trabajo ya de por sí elevada debido al tipo de implementación que se plantea.
+
+**Decisión ASC: Opcion 2** 
 
 ## Decisión final tomada
 
-
+**Opción elegida: Opción 2.** Si bien puede ser más costosa la primera implementación, es compensado con el gran control que ofrece sobre las APIS y un rendimiento superior al que podríamos conseguir si optáramos por la Opción 1.
 
 ## Capturas CONTROL 
 

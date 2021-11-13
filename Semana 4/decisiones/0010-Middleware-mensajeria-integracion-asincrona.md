@@ -50,7 +50,7 @@ Requisito a tratar:
 
 ## Decisión final tomada
 
-**Opción elegida:** Opción 1. Es necesaria esa asincronidad entre peticiones y comunicaciones aunque eso implique un aumento de la complejidad. 
+**Opción elegida: Opción 1.** Es necesaria la existencia de esa sincronía entre peticiones y comunicaciones aunque eso implique un aumento de la complejidad. 
 
 ## Capturas CONTROL 
 

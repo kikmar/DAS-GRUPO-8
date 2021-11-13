@@ -56,7 +56,7 @@ Opción 1 elegida: Se elije debido a que es necesario la creación de un microse
 
 ## Decisión final tomada
 
-Opción elegida: Opción 2. Ya que el punto de Python sobre JAVA nos ha parecido determinante para la elección de esta opción sobre la Opción 1.
+**Opción elegida: Opción 2.** Al igual que en la decisión 004, el punto de Python sobre JAVA nos ha parecido determinante para la elección de esta opción sobre el resto de opciones comentadas.
 
 ## Capturas CONTROL 
 

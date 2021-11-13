@@ -54,7 +54,7 @@ base de datos NOSql para información del usuario y la base de datos SQL para co
 
 ## Decisión final tomada
 
-**Opción elegida:** opción 1
+**Opción elegida: opción 1**
 
 ## Capturas CONTROL 
 
