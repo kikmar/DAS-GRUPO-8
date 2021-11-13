@@ -27,6 +27,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 * Estado: [Aceptado](decisiones/0004-Gestion-de-compras-y-acceso-a-plataforma-de-pagos.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
 * Fecha: [30-10-2021 cuando fue la última actualización]
 
 ## ADR-0005 Modulo de pedidos, compras y módulo de devoluciones
