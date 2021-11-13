@@ -59,7 +59,7 @@ de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tie
 
 ## UML de la decisión
 
-
+![UML0008](../uml/D0008uml.JPG)
 
 
 
