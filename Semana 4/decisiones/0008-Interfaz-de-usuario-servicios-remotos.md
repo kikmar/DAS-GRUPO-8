@@ -12,7 +12,7 @@ Se expone cómo se va a realizar el control de la interfaz de usuario y el contr
 
 ## Decisiones a tratar:
 
-* **Opcion 1**: Se realizará una separación entre la versión móvil del servicio así como de la propia WebApp y lasx aplicaciones a terceros aplicando una arquitectura de microservicios basada en Backend for frontends. Esto nos permite diferenciar distintas API Gateways dependiendo de la necesidad y el entorno del servicio, dandonos gran aporte a utilizar algunas API REST específicas para un entorno y facilitando que no se propaguen errores en posibles conexiones errones a API REST que no deberían ejecutarse en un entorno en concreto (véase la mensajería para dispositivos móviles).
+* **Opcion 1**: Se realizará una separación entre la versión móvil, la WebApp y las posibles aplicaciones a terceros en el servicio del usuario, aplicando una arquitectura concreta de microservicios basada en Backend for frontends. Esto nos permitirá, en un futuro, diferenciar distintas API Gateways dependiendo de la necesidad y el entorno del servicio, dandonos gran aporte a utilizar algunas API REST específicas para un entorno y facilitando que no se propaguen errores en posibles conexiones errones a API REST que no deberían ejecutarse en un entorno en concreto (véase la mensajería para dispositivos móviles).
 
 * **Opcion 2**: Se realizará un sistema de modelo vista controlador en la propia parte del cliente utilizando una única entrada por API Gateway permitiendo la diferenciación de los diferentes componentes visuales 
 de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tiene que conectarse para su función.
@@ -21,7 +21,7 @@ de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tie
 
 
 ## Decisiones tomadas
-* **OPCION 1 ELEGIDA**: Se toma esta decisión debido  ala necesidad del cliente de una clara separación de algunas APIs para distintos entornos en la aplicación facilitando el correcto mantenimiento y funcionamiento de la aplicación independientemente del entorno en el que se este realizando la petición. Esto facilita en gran medida la consistencia del programa y una estructuración mayor en el proyecto.
+* **OPCION 1 ELEGIDA**: Se toma esta decisión debido  a la necesidad del cliente de una clara separación de algunas APIs para distintos entornos en la aplicación facilitando el correcto mantenimiento y funcionamiento de la aplicación independientemente del entorno en el que se este realizando la petición. Esto facilita en gran medida la consistencia del programa y una estructuración mayor en el proyecto.
 
 
 ### Consecuencias positivas <!-- optional -->
@@ -55,6 +55,7 @@ de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tie
 
 ## Capturas CONTROL 
 
+![D0008](../capturasadmentor/D0008.JPG)
 
 ## UML de la decisión
 
