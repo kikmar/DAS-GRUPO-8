@@ -59,6 +59,8 @@ de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tie
 
 ## UML de la decisión
 
+**NOTA**: En el microservicio usuario, se puede observar como una única api rest usuario se comunica con el resto. Esto es una medida temporal, ya que en un futuro, como se comenta a lo largo de esta decisión, se cambiará por el sistema de API gateways separadas. Se ha mantenido de esta manera, puesto que aun la API gateway. aunque se deje claro como es la idea que implementaremos. aun no se ha debatido sobre la decisión, y de esta manera, mantenemos el UML más clarificado.
+
 ![UML0008](../uml/D0008uml.JPG)
 
 
