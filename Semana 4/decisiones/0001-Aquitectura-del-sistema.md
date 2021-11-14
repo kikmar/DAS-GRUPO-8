@@ -46,7 +46,7 @@ Opción 1 elegida (Arquitectura de Microservicios) porque es el sistema que quie
 
 **Decisión ASC: arquitectura aceptada**
 
-## Decisión final tomada
+## Decisión final tomada: Opción 1.
 
 Opción elegida: [Arquitectura de Microservicios](https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices) , porque es el sistema que quiere el cliente expresamente para mejorar la flexibilidad y escalabilidad.
 

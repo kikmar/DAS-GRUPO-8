@@ -35,26 +35,27 @@ base de datos NOSql para información del usuario y la base de datos SQL para co
 * Seguridad informática revisable y acorde a los datos que el sistema almacena al implementarse a lo largo del desarrollo.
 * El sistema de devoluciones tiene un comportamiento similar al de compras, lo que facilita su implementación.
 * El sistema de compras se relaciona con el stock asegurando un buen funcionamiento del sistema en todos los posibles casos.
-* Se aseguran varios puntos que el cliente exige
+* Se aseguran varios puntos que el cliente exige.
 
 ### Consecuencias negativas <!-- optional -->
 
 * Las bases de datos no están correctamente conectadas en este punto de la implementación y puede suponer un problema al esclarecer estas soluciones 
-* Es probable que la base de datos SQL sea demasiado compleja de manejar
+* Es probable que la base de datos SQL sea demasiado compleja de manejar.
 
 ### Discusión ASC: Modulo de pedidos, compras y módulo de devoluciones
 
 + Bueno, ya que se satisface lo que demanda el cliente.
 + Bueno, ya que al ser sistemas de similar implementación se ahorrarán tanto tiempo como costes de desarrollo.
 + Bueno, ya que las compras y el stock se relacionan ofreciéndonos un mejor rendimiento del sistema.
-+ Malo, ya que puede darse el caso de que encontremos disonancias entre las BBDD
-+ Malo, ya que aumenta la complejidad del manejo de las BBDD
++ Malo, ya que puede darse el caso de que encontremos disonancias entre las BBDD.
++ Malo, ya que aumenta la complejidad del manejo de las BBDD.
 
 **Decisión ASC: Opcion 1**
 
 ## Decisión final tomada
 
-**Opción elegida: opción 1**
+**Opción elegida: Opción 1** 
+Elegida por las ventajas observables en costes de desarrollo y rendimiento para nuestro sistema, siendo estos factores prioritarios para nuestro desarrollo.
 
 ## Capturas CONTROL 
 

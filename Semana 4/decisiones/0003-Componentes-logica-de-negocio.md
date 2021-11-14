@@ -51,7 +51,8 @@ que estos tres servicios pueden gesitonarse mediante una sola API (a no ser que,
 
 ## Decisión final tomada
 
-**Decisión: Opcion 2** El hecho de que haga la implementación más sencilla, facilite su gestión y mantenimiento y además reduzca el coste de servidores, hace que se convierta en la opción por la que nos decantamos y que creemos que puede aportar más beneficios a largo plazo.
+**Decisión: Opcion 2** 
+El hecho de que haga la implementación más sencilla, facilite su gestión y mantenimiento y además reduzca el coste de servidores, hace que se convierta en la opción por la que nos decantamos y que creemos que puede aportar más beneficios a largo plazo.
 
 ## Capturas CONTROL
 
