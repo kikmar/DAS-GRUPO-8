@@ -73,7 +73,7 @@ En esta revisión de la decisión, los ASC no toman parte por dos motivos: el pr
 
 ## Nuevas capturas CONTROL 
 
-![D0002](../capturasadmentor/D0002.1.jpg)
+![D0002.1](../capturasadmentor/D0002.1.JPG)
 
 
 
