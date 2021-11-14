@@ -46,8 +46,13 @@ Se debe determinar cuantos contenedores y host en docker van a albergar el siste
 
 ## Capturas CONTROL 
 
+![D0012](../capturasadmentor/D0012.jpg)
 
 ## UML de la decisión
+
+**NOTA**: Como se puede comprobar a continuación, no se observa el mismo UML que anteriormente se había desarrollado. La cuestión es que, si se aprecia atentamente, se trata de una abstracción del mismo para representar los HOSTS y contenedores anteriormente descritos y explicados, para que de esta manera sea más legible y comprensible. Una vez entendido, es fácil establecer un paralelismo entre ambas versiones para poder conjuntar ambas descripciones del sistema.
+
+![UML-D0012](../uml/D0012uml.JPG)
 
 
 
