@@ -10,7 +10,7 @@ Requisito a tratar:
 
 
 ## Contexto y problemas a resolver
-[ADR-0010](../decisiones/0010-Middleware-mensajeria-integracion-asincrona.md): Según se especifico en el ADR 10 era necesarío una conexión asíncrona de los microservicios mediante un MoM, que en ese caso se eligió por protocolo AMQP, se solicita crear un evento de bus lógico basado en mensajería para la persistencia de los dattos y la conexión asíncrona, por lo tanto, el middleware de mensajería será el bus lógico de datos y se basará en las decisiones tomadas anteriormente.
+[ADR-0010](../decisiones/0010-Middleware-mensajeria-integracion-asincrona.md): Según se especifico en el ADR 10 era necesarío una conexión asíncrona de los microservicios mediante un MoM, que en ese caso se eligió por protocolo AMQP, se solicita crear un evento de bus lógico basado en mensajería para la persistencia de los datos y la conexión asíncrona, por lo tanto, el middleware de mensajería será el bus lógico de datos y se basará en las decisiones tomadas anteriormente.
 
 A su vez se creará una nueva base de datos para la localización de los microservicios.
 
@@ -54,9 +54,11 @@ A su vez se creará una nueva base de datos para la localización de los microse
 
 ## Capturas CONTROL 
 
+![D0011](../capturasadmentor/D0011.JPG)
 
 ## UML de la decisión
 
+**NOTA**: Esta versión del UML incluye cambios no especificados en esta decisión, ya que también se aprecian cambios de la decisión [D0010](../decisiones/0010-Middleware-mensajeria-integracion-asincrona.md). Además, esta actualización incluye corrección de pequeños errores visuales y lógicos que estaban especificados en anteriores decisiones, pero de los que no nos habíamos percatado hasta ahora.
 
 ![UML-D0011](../uml/D0011uml.JPG)
 
