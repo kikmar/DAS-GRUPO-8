@@ -11,10 +11,11 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 * Fecha: [30-10-2021 cuando fue la última actualización]
 
 ## ADR-0002 Migracion-nueva-arquitectura
-* Estado: [Suspendido](decisiones/0002-Migracion-nueva-arquitectura.md)
+* Estado: [Aceptado](decisiones/0002-Migracion-nueva-arquitectura.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
-* Fecha: [30-10-2021 cuando fue la última actualización]
+* Fecha: [30-10-2021 previa a la revisión]
+* Fecha: [14-11-2021 fecha de la revisión de la decisión]
 
 ## ADR-0003 Componentes lógica de negocio
 * Estado: [Aceptada](decisiones/0003-Componentes-logica-de-negocio.md)

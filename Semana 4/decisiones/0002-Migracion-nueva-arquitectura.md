@@ -53,6 +53,28 @@ Opción elegida: Revisión de la escalabilidad y flexibilidad de la arquitectura
 
 No se realiza ningún esquema UML debido a que es una decisión general de arquitectura sin tratar ninguna clase en concreto.
 
+##Actualización de la decisión
+
+* **Fecha de la revisión**: 14/11/2021
+
+Tras terminar el diseño de la arquitectura, ha quedado constancia de que durante el desarrollo de la misma, la escalabilidad y la flexibilidad tras la migración ha sido revisada en todas las tomas de decisión, siendo un factor muy influyente en muchas de ellas. A lo largo de los documento de las decisiones, se podrá observar como formar parte de las mismas. Por este motivo, tras la reunión de los ASS queda declarado que se ha asegurado una buena escalabilidad y flexibilidad en el nuevo sistema tras la migración del mismo, por lo que no vemos necesario actualizar nada tras nuevamente revisar cada una de las decisiones.
+
+## Decisiones tomadas
+
+No actualizar ningún elemento de la arquitectura puesto que consideramos lo suficientemente escalable y flexible.
+
+### Discusión ASC
+
+En esta revisión de la decisión, los ASC no toman parte por dos motivos: el primero es que han revisado constantemente la escalabilidad y flexibilidad durante el desarrollo de la nueva arquitectura. El segundo, es que como los ASS han decidido no actualizar nada, en este punto de la arquitectura todas las decisiones tomadas ya han sido aprobadas por los ASC, por lo que se considera que no hay nada nuevo que discutir.
+
+## Decisión final tomada
+
+**Opción elegida**: Mantener el sistema como está.
+
+## Nuevas capturas CONTROL 
+
+![D0002](../capturasadmentor/D0002.1.jpg)
+
 
 
 
