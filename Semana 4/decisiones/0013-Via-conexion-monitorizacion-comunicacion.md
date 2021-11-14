@@ -48,7 +48,7 @@ Se trataran todas las comunicaciones por parte del cliente como http así como l
 
 ## Capturas CONTROL 
 
-![D0013](../capturasadmentor/D0013.jpg)
+![D0013](../capturasadmentor/D0013.JPG)
 
 ## UML de la decisión
 

@@ -46,7 +46,7 @@ Se debe determinar cuantos contenedores y host en docker van a albergar el siste
 
 ## Capturas CONTROL 
 
-![D0012](../capturasadmentor/D0012.jpg)
+![D0012](../capturasadmentor/D0012.JPG)
 
 ## UML de la decisión
 
