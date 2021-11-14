@@ -70,7 +70,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 
 ## ADR-0010 Middelware de mensajeria e integración asíncrona de microservicios
 
-* Estado: [Falta control y uml](decisiones/0010-Middleware-mensajeria-integracion-asincrona.md)
+* Estado: [Aceptado](decisiones/0010-Middleware-mensajeria-integracion-asincrona.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
@@ -78,23 +78,26 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 
 ## ADR-0011 Creación nueva base de datos y bus lógico
 
-* Estado: [Pendiente](decisiones/0011-Nueva-base-de-datos-bus-logico.md)
-* ASS: []
-* ASS: []
+* Estado: [Falta aclarar decision ASC](decisiones/0011-Nueva-base-de-datos-bus-logico.md)
+* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
+* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
 * Fecha: [ cuando fue la última actualización]
 
 ## ADR-0012 Determinar número de contenedores
 
-* Estado: [Pendiente](decisiones/0012-Numero-de-contenedores.md)
-* ASS: []
-* ASS: []
+* Estado: [Falta decision ASC y control y uml](decisiones/0012-Numero-de-contenedores.md)
+* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
+* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
 * Fecha: [ cuando fue la última actualización]
 
 ## ADR-0013 Conexión y microservicios
 
 * Estado: [Pendiente](decisiones/0013-Conexion-microservicios.md)
-* ASS: []
-* ASS: []
+* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
+* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
 * Fecha: [ cuando fue la última actualización]
 
 ## ADR-0014 Vía de conexión y monitorización y comunicación de microservicios
