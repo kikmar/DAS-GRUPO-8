@@ -38,11 +38,19 @@ Se debe determinar cuantos contenedores y host en docker van a albergar el siste
 
 ### Discusión ASC: Arquitectura de Microservicios
 
++ Bueno, ya que tenemos los microservicios enfocados a la versión móvil en un contenedor a parte.
++ Bueno, ya que adoptando este sistema mejora en gran medida el rendimiento del mismo.
++ Bueno, ya que mejoramos la puesta en marcha y la identificación de todos los modulos del sistema.
++ Bueno, ya al tener un mayor control en los modulos mejoramos el mantenimiento.
+- Malo, ya que es algo complejo de implementar.
+- Malo, ya que hay más contenedores y módulos que mantener.
+
+
 **Decisión ASC: Opcion 1**
 
 ## Decisión final tomada
 
-
+**Opción elegida: Opción 1.** Aunque es algo compleja de implementar, mejora enormemente tanto el rendimiento del sistema como la modularidad ayudando así a tener todo organizado y poder mantenerlo de manera adecuada. Esto es algo que no tendríamos con las demás opciones.
 
 ## Capturas CONTROL 
 

@@ -38,7 +38,8 @@ Se trataran todas las comunicaciones por parte del cliente como http así como l
 
 + Bueno, ya que es esencial una correcta separación de las peticiones para una mejora de rendimiento y de control.
 + Bueno, ya que favorece el correcto mantenimiento y seguimiento de cara a futuras expansiones.
-+ Malo, ya que una mala praxis puede desenvocar en un aumento de complejidad que aumenta la carga de trabajo ya de por sí elevada debido al tipo de implementación que se plantea.
++ Bueno, ya que permite diferenciar los distintos sistemas y la monitorización de los microservicios
+- Malo, ya que una mala praxis puede desenvocar en un aumento de complejidad que aumenta la carga de trabajo ya de por sí elevada debido al tipo de implementación que se plantea.
 
 **Decisión ASC: Opcion 2** 
 
