@@ -59,7 +59,7 @@ Es necesaria la existencia de esa sincronía entre peticiones y comunicaciones a
 
 ## UML de la decisión
 
-
+Los cambios en el UML de esta decisión se ven reflejados en la decisión [D0011](../decisiones/0011-Nueva-base-de-datos-bus-logico.MD), ya que se trabajó conjuntamente en ambas decisiones al estar intimamente relacionadas. Se realiazó una versión previa de dicho uml al tomar esta decisión, pero como fue rapidamente modificada en la siguiente, no tiene sentido valorar un cambio que tan frágil y temporal.
 
 
 
