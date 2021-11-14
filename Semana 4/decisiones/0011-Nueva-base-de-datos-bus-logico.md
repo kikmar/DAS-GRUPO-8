@@ -50,13 +50,15 @@ A su vez se creará una nueva base de datos para la localización de los microse
 
 ## Decisión final tomada
 
-
+**Decisión final: OPCION 1**
 
 ## Capturas CONTROL 
 
 
 ## UML de la decisión
 
+
+![UML-D0011](../uml/D0011uml.JPG)
 
 
 
