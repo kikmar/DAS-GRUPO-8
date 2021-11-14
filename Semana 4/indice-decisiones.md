@@ -92,17 +92,11 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 * ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
 * Fecha: [ cuando fue la última actualización]
 
-## ADR-0013 Conexión y microservicios
 
-* Estado: [Pendiente](decisiones/0013-Conexion-microservicios.md)
-* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
-* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
-* ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
-* Fecha: [ cuando fue la última actualización]
 
-## ADR-0014 Vía de conexión y monitorización y comunicación de microservicios
+## ADR-0013 Vía de conexión y monitorización y comunicación de microservicios
 
-* Estado: [Falta control y uml](decisiones/0014-Via-conexion-monitorizacion-comunicacion.md)
+* Estado: [Falta control y uml](decisiones/0013-Via-conexion-monitorizacion-comunicacion.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
