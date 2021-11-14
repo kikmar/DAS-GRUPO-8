@@ -54,6 +54,7 @@ Requisito a tratar:
 
 ## Capturas CONTROL 
 
+![D0010](../capturasadmentor/D0010.JPG)
 
 ## UML de la decisión
 
