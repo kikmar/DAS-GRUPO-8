@@ -1,4 +1,4 @@
-# ADR-0013 Vía de conexión y monitorización y comunicación de microservicios
+# ADR-0013 Vía de conexión, monitorización y comunicación de microservicios
 
 ## Identificador del Requisito
 
@@ -48,6 +48,7 @@ Se trataran todas las comunicaciones por parte del cliente como http así como l
 
 ## Capturas CONTROL 
 
+![D0013](../capturasadmentor/D0013.jpg)
 
 ## UML de la decisión
 
