@@ -74,31 +74,31 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
-* Fecha: [ 12-11-2021 cuando fue la última actualización]
+* Fecha: [14-11-2021 cuando fue la última actualización]
 
 ## ADR-0011 Creación nueva base de datos y bus lógico
 
-* Estado: [Falta aclarar decision ASC](decisiones/0011-Nueva-base-de-datos-bus-logico.md)
+* Estado: [Aceptado](decisiones/0011-Nueva-base-de-datos-bus-logico.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
-* Fecha: [ cuando fue la última actualización]
+* Fecha: [14-11-2021 cuando fue la última actualización]
 
 ## ADR-0012 Determinar número de contenedores
 
-* Estado: [Falta decision ASC y control y uml](decisiones/0012-Numero-de-contenedores.md)
+* Estado: [Falta decision ASC](decisiones/0012-Numero-de-contenedores.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
-* Fecha: [ cuando fue la última actualización]
+* Fecha: [14-11-2021 cuando fue la última actualización]
 
 
 
 ## ADR-0013 Vía de conexión y monitorización y comunicación de microservicios
 
-* Estado: [Falta control y uml](decisiones/0013-Via-conexion-monitorizacion-comunicacion.md)
+* Estado: [Falta ASC](decisiones/0013-Via-conexion-monitorizacion-comunicacion.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
-* Fecha: [12-11-2021 cuando fue la última actualización]
+* Fecha: [14-11-2021 cuando fue la última actualización]
 
