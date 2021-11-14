@@ -36,13 +36,13 @@ Opción 1 elegida (Arquitectura de Microservicios) porque es el sistema que quie
 
 ### Discusión ASC: Arquitectura de Microservicios
 
-* Bueno, porque es la arquitectura que ha solicitado el cliente
-* Bueno, porque los microservicios son más fáciles de mantener y testear, puesto que son servicios pequeños que hacen una sóla cosa, pero la hacen bien.
-* Bueno, ya que al no estar integrados en el sistema principal, son de fácil despliegue.
-* Bueno, ya que pueden tener una escalabilidad independiente y es más sencillo aislar fallos a un microservicio concreto, en vez de una sección o funcionalidad de la aplicación.
-* Malo, porque hay que lidiar con la complejidad adicional de los sistemas distribuidos.
-* Malo, porque hay que implementar dependencias de un servicio a otro, comunicación interna entre servicios, etc.
-* Malo, porque implica un mayor consumo de recursos, puesto que cada microservicio tiene su propio SO y dependencias.
++ Bueno, porque es la arquitectura que ha solicitado el cliente
++ Bueno, porque los microservicios son más fáciles de mantener y testear, puesto que son servicios pequeños que hacen una sóla cosa, pero la hacen bien.
++ Bueno, ya que al no estar integrados en el sistema principal, son de fácil despliegue.
++ Bueno, ya que pueden tener una escalabilidad independiente y es más sencillo aislar fallos a un microservicio concreto, en vez de una sección o funcionalidad de la aplicación.
+- Malo, porque hay que lidiar con la complejidad adicional de los sistemas distribuidos.
+- Malo, porque hay que implementar dependencias de un servicio a otro, comunicación interna entre servicios, etc.
+- Malo, porque implica un mayor consumo de recursos, puesto que cada microservicio tiene su propio SO y dependencias.
 
 **Decisión ASC: arquitectura aceptada**
 

@@ -29,6 +29,11 @@ restock de productos incluidos en las preferencias del usuario, pedido enviado, 
 
 
 ### Discusión ASC: Arquitectura de Microservicios
++ Bueno, ya que ofrece una persistencia y una gestión de los datos muy conveniente.
++ Bueno, ya que posee un sistema robusto en caso de fallo de un microservicio.
++ Bueno, ya que una buena sincronización entre las comunicaciones y las peticiones es algo indispensable en un sistema como el que pide el cliente.
+- Malo, complejidad adicional de los sistemas distribuido.
+- Malo, mayor consumo de recursos, puesto que cada microservicio tiene su propio Sistema Operativo y dependencias.
 
 **Decisión ASC: Opcion 2**
 

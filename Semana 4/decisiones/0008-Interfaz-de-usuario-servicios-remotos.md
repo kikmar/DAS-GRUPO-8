@@ -51,7 +51,8 @@ de la aplicación. Por lo tanto el propio cliente selecciona la api a la que tie
 
 ## Decisión final tomada
 
-**Opción elegida:** Opción 1. Ha sido determinante la modularidad que ofrece y la capacidad de expansión.
+**Opción elegida: Opción 1.**  
+Ha sido determinante la modularidad que ofrece y la capacidad de expansión.
 
 ## Capturas CONTROL 
 
