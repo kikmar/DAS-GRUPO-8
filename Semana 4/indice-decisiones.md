@@ -3,21 +3,21 @@
 Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GRUPO-8](https://github.com/kikmar/DAS-GRUPO-8)
 
 
-## ADR-0001 Arquitectura-del-sistema
+## ADR-0001 Arquitectura del sistema
 * Estado: [Aceptado](decisiones/0001-Aquitectura-del-sistema.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
 * Fecha: [30-10-2021 cuando fue la última actualización]
 
-## ADR-0002 Migracion-nueva-arquitectura
+## ADR-0002 Migracion a la nueva arquitectura
 * Estado: [Aceptado](decisiones/0002-Migracion-nueva-arquitectura.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * Fecha: [30-10-2021 previa a la revisión]
 * Fecha: [14-11-2021 fecha de la revisión de la decisión]
 
-## ADR-0003 Componentes lógica de negocio
+## ADR-0003 Componentes de lógica de negocio
 * Estado: [Aceptado](decisiones/0003-Componentes-logica-de-negocio.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)

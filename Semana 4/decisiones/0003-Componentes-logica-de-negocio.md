@@ -38,7 +38,7 @@ que estos tres servicios pueden gesitonarse mediante una sola API (a no ser que,
 * La opción 2 es una opcion muy similar, que a priori, con los requisitos en la mano, parace más obvio que quedará implementado.
 * Implementar las clases con esta decisión dentro de los microservicios puede quedar algo emborronado, especialmente en los microservicios de envío y compras y devoluciones.
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Componentes de la lógica de negocio
 
 + Bueno, al ser cada servicio una pequeña aplicación, es mas sencillo y mas rápido innovar o mejorar ese servicio, asegurando la escalabilidad y flexibilidad.
 + Bueno, en caso de tener que realizar cambios, solo tendremos que desplegar el servicio que ha sido cambiado en vez de toda la aplicación.

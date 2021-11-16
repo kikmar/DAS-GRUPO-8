@@ -35,7 +35,7 @@ y flexibilidad. No podemos implementarlas como tal, pero sí asegurar mediante l
 * No se vislumbra una escalabilidad palpable desde el comienzo del desarrollo de la migración
 * Posible pérdida del contacto con estos requisitos durante el desarrollo de la migración
 
-### Discusión ASC: Arquitectura de Microservicios
+### Discusión ASC: Migracióna a la nueva arquitectura
 
 En esta decisión, los ASC no toman parte del proceso porque se encargarán de revisarlo periodicamente durante el desarrollo de la migración y la implementación
 de la arquitectura de microservicio.
