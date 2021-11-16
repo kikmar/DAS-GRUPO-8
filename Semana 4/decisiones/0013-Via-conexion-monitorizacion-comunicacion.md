@@ -53,7 +53,13 @@ Se trataran todas las comunicaciones por parte del cliente como http así como l
 
 ## UML de la decisión
 
+* **Diagrama UML**
+
 ![UML-D0013](../uml/D0013uml.JPG)
+
+* **Diagrama de despliegue**
+
+![UML-D0013](../uml/despliegue.JPG)
 
 
 
