@@ -50,7 +50,7 @@ Hemos elegido esta opción puesto que damos preferencia a una mayor coordinació
 
 ## Capturas CONTROL 
 
-
+![D0007](../capturasadmentor/D0007.JPG)
 
 ## UML de la decisión
 

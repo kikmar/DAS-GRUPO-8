@@ -18,7 +18,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 * Fecha: [14-11-2021 fecha de la revisión de la decisión]
 
 ## ADR-0003 Componentes lógica de negocio
-* Estado: [Aceptada](decisiones/0003-Componentes-logica-de-negocio.md)
+* Estado: [Aceptado](decisiones/0003-Componentes-logica-de-negocio.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
@@ -48,10 +48,12 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 
 ## ADR-0007 Componentes de presentación
 
-* Estado: [Pendiente](decisiones/0007-Componentes-de-presentacion.md)
-* ASS: []
-* ASS: []
-* Fecha: [ cuando fue la última actualización]
+* Estado: [Aceptado](decisiones/0007-Componentes-de-presentacion.md)
+* ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
+* ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
+* ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
+* ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
+* Fecha: [17-11-2021 cuando fue la última actualización]
 
 ## ADR-0008 Módulo interfaz de usuario y módulo de servicios remotos
 
@@ -87,7 +89,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 
 ## ADR-0012 Determinar número de contenedores
 
-* Estado: [Falta decision ASC](decisiones/0012-Numero-de-contenedores.md)
+* Estado: [Aceptado](decisiones/0012-Numero-de-contenedores.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Alberto García Sroda](https://github.com/XalbertoXX)
@@ -97,7 +99,7 @@ Esta es una lista de Logs de las decisiones de arquitectura tomadas para [DAS-GR
 
 ## ADR-0013 Vía de conexión y monitorización y comunicación de microservicios
 
-* Estado: [Falta ASC](decisiones/0013-Via-conexion-monitorizacion-comunicacion.md)
+* Estado: [Aceptado](decisiones/0013-Via-conexion-monitorizacion-comunicacion.md)
 * ASS: [Rodrigo Marqués Buil](https://github.com/Larrivey)
 * ASS: [Enrique Martín Santorcaz](https://github.com/kikmar)
 * ASC: [Hugo Coto Gonzalez](https://github.com/hugocg6)
