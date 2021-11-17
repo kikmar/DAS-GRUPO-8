@@ -40,6 +40,12 @@ Hemos elegido esta opción puesto que damos preferencia a una mayor coordinació
 
 ### Discusión ASC: Componentes de presentación
 
+* Bueno, ya que se ciñe a lo que pide el cliente.
+* Bueno, ya que el coste de la implementación no parece que vaya a resultar elevado.
+* Java es independiente de la plataforma, lo que significa que el código fuente puede ejecutarse en cualquier sistema operativo y navegador.
+* Malo, ya que puede resultar insuficiente
+* Malo, ya que al elegir JAVA puede resultar difícil encontrar una plataforma de interfaz gráfica de usuario que sea coherente y se sienta nativa.
+* Malo, ya que no se espewcifica cuan seguro va a ser el desarrollo de los nuevos métodos.
 
 
 **Decisión ASC: Opcion 1**
